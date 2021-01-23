@@ -26,6 +26,13 @@ Markdown is the format used to write this document. There is a [specification][1
 - [C++Now 2019: Conor Hoekstra “Algorithm Intuition”](https://www.youtube.com/watch?v=48gV1SNm3WA)
 - [Elsewhere Memory (C++20 Abstract Machine)](https://www.youtube.com/watch?v=Djw6aY0VhwI)
 
+### Ranges
+https://tristanbrindle.com/posts/rvalue-ranges-and-views
+
+### Algebraic Data Types
+- https://www.bfilipek.com/2018/09/visit-variants.html
+- https://arne-mertz.de/2018/05/overload-build-a-variant-visitor-on-the-fly/
+
 
 ## Rust
 - https://www.rust-lang.org/
@@ -41,6 +48,8 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 
 [RustConf 2019 - The Symbiotic Relationship of C++ and Rust by Isabella Muerte](https://www.youtube.com/watch?v=YZomx3Jt4Xs)
 
+[Rust Edinburgh #1 - Simon Brand: "How Rust gets polymorphism right"](https://www.youtube.com/watch?v=VSlBhAOLtFA)
+
 ## History of Programming
-https://www.youtube.com/watch?v=jmRE5pXFi04
-https://www.youtube.com/watch?v=91fjAbsJdUo
+- https://www.youtube.com/watch?v=jmRE5pXFi04
+- https://www.youtube.com/watch?v=91fjAbsJdUo
