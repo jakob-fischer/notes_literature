@@ -1,6 +1,7 @@
 # Development Tooling
 ## Markdown
 Markdown is the format used to write this document. There is a [specification][1] as well as an introductory [guide][2].
+
 [1]: https://spec.commonmark.org/
 [2]: https://www.markdownguide.org/
 
