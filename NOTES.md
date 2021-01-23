@@ -13,7 +13,28 @@ Markdown is the format used to write this document. There is a [specification][1
 [2]: https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
 
 
-# Languages / Comparisons
+# Career and Collaboration
+https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/
+
+
+# Languages
+## C++
+- https://www.youtube.com/watch?v=W2tWOdzgXHA
+- http://elementsofprogramming.com/
+- [C++Now 2019: Conor Hoekstra “Algorithm Intuition”](https://www.youtube.com/watch?v=48gV1SNm3WA)
+
+
+## Rust
+https://docs.rust-embedded.org/book/index.html
+
 ## Rust - C++
 ### Rust for C++ Developers (Pavel Yosifovich)
 A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction into rust for C++ developers.
+
+[Conor Hoekstra - Concepts vs Typeclasses vs Traits vs Protocols - Meeting C++ 2020](https://www.youtube.com/watch?v=Qh7QdG5RK9E)
+
+[RustConf 2019 - The Symbiotic Relationship of C++ and Rust by Isabella Muerte](https://www.youtube.com/watch?v=YZomx3Jt4Xs)
+
+## History of Programming
+https://www.youtube.com/watch?v=jmRE5pXFi04
+https://www.youtube.com/watch?v=91fjAbsJdUo
