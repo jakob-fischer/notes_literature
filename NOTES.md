@@ -13,8 +13,10 @@ Markdown is the format used to write this document. There is a [specification][1
 [2]: https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
 
 
-# Career and Collaboration
-https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/
+# Career, Collaboration, Community
+- https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/
+- [Jenn Schiffer: Javascript Considered...Useful](https://www.youtube.com/watch?v=ylF7ZR-b7Rk)
+- [Benno Rice: The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
 
 
 # Languages
@@ -22,10 +24,14 @@ https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-m
 - https://www.youtube.com/watch?v=W2tWOdzgXHA
 - http://elementsofprogramming.com/
 - [C++Now 2019: Conor Hoekstra “Algorithm Intuition”](https://www.youtube.com/watch?v=48gV1SNm3WA)
+- [Elsewhere Memory (C++20 Abstract Machine)](https://www.youtube.com/watch?v=Djw6aY0VhwI)
 
 
 ## Rust
-https://docs.rust-embedded.org/book/index.html
+- https://www.rust-lang.org/
+- https://doc.rust-lang.org/book/
+- https://docs.rust-embedded.org/book/index.html
+- https://rust-lang.github.io/async-book/
 
 ## Rust - C++
 ### Rust for C++ Developers (Pavel Yosifovich)
