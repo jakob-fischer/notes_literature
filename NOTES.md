@@ -53,3 +53,12 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 ## History of Programming
 - https://www.youtube.com/watch?v=jmRE5pXFi04
 - https://www.youtube.com/watch?v=91fjAbsJdUo
+
+
+# Multimedia
+## Graphics
+- https://raytracing.github.io/books/RayTracingInOneWeekend.html
+
+## Generative Art
+- http://www.galaxykate.com/blog/generator.html
+- Voronoi Diagram
