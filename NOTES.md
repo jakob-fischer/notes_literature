@@ -57,7 +57,7 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 
 # Multimedia
 ## Graphics
-- https://raytracing.github.io/books/RayTracingInOneWeekend.html
+- [_Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 ## Generative Art
 - http://www.galaxykate.com/blog/generator.html
