@@ -7,10 +7,10 @@ Markdown is the format used to write this document. There is a [specification][1
 
 ## Git
 ### Gitless
-[Gitless][1] is a project trying to improve the user experience of git by building a simplified abstraction on top of git. Most notable is the removal of the stash area as it seems to contribute to confusion users experience. A quick overview is given by [the morning paper][2].
+[Gitless][3] is a project trying to improve the user experience of git by building a simplified abstraction on top of git. Most notable is the removal of the stash area as it seems to contribute to confusion users experience. A quick overview is given by [the morning paper][4].
 
-[1]: https://gitless.com/
-[2]: https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
+[3]: https://gitless.com/
+[4]: https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
 
 
 # Career, Collaboration, Community
