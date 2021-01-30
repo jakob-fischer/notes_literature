@@ -50,9 +50,13 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 
 [Rust Edinburgh #1 - Simon Brand: "How Rust gets polymorphism right"](https://www.youtube.com/watch?v=VSlBhAOLtFA)
 
+## Haskell
+- http://learnyouahaskell.com/
+
 ## History of Programming
 - https://www.youtube.com/watch?v=jmRE5pXFi04
 - https://www.youtube.com/watch?v=91fjAbsJdUo
+- Structure and Interpretation of Computer Programs (Book): https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
 
 
 # Multimedia
