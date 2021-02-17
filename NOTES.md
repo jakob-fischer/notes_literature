@@ -25,6 +25,8 @@ Markdown is the format used to write this document. There is a [specification][1
 - http://elementsofprogramming.com/
 - [C++Now 2019: Conor Hoekstra “Algorithm Intuition”](https://www.youtube.com/watch?v=48gV1SNm3WA)
 - [Elsewhere Memory (C++20 Abstract Machine)](https://www.youtube.com/watch?v=Djw6aY0VhwI)
+- [Tip of the Week #149: Object Lifetimes vs. = delete](https://abseil.io/tips/149)
+- [Value category is not lifetime](https://quuxplusone.github.io/blog/2019/03/11/value-category-is-not-lifetime/)
 
 ### Ranges
 https://tristanbrindle.com/posts/rvalue-ranges-and-views
