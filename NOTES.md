@@ -41,6 +41,7 @@ https://tristanbrindle.com/posts/rvalue-ranges-and-views
 - https://doc.rust-lang.org/book/
 - https://docs.rust-embedded.org/book/index.html
 - https://rust-lang.github.io/async-book/
+- [A Tour of Safe Tracing GC Designs in Rust](https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/)
 
 ## Rust - C++
 ### Rust for C++ Developers (Pavel Yosifovich)
