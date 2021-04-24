@@ -55,6 +55,9 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 ## Haskell
 - http://learnyouahaskell.com/
 
+## Functional Programming
+[Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+
 ## History of Programming
 - https://www.youtube.com/watch?v=jmRE5pXFi04
 - https://www.youtube.com/watch?v=91fjAbsJdUo
