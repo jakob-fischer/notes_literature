@@ -64,6 +64,8 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 - https://www.youtube.com/watch?v=91fjAbsJdUo
 - Structure and Interpretation of Computer Programs (Book): https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-4.html
 
+# Modelling, Algorithms, Patterns
+- [Immutability Changes Everything-We need it, we can afford it, and the time is now](https://queue.acm.org/detail.cfm?id=2884038)
 
 # Multimedia
 ## Graphics
