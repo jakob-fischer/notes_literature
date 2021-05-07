@@ -13,10 +13,12 @@ Markdown is the format used to write this document. There is a [specification][1
 [4]: https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
 
 
-# Career, Collaboration, Community
+# Career, Collaboration, Community, Developer Tooling
 - https://firstround.com/review/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/
+- [How-To Guide for 1:1s] (https://github.com/raylene/eng-handbook/blob/master/management/guide-to-1-1s.md)
 - [Jenn Schiffer: Javascript Considered...Useful](https://www.youtube.com/watch?v=ylF7ZR-b7Rk)
 - [Benno Rice: The Tragedy of systemd](https://www.youtube.com/watch?v=o_AIw9bGogo)
+- [Not Rocket Science Rule - Graydon Hoare](https://graydon2.dreamwidth.org/1597.html)
 
 
 # Languages
