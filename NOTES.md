@@ -59,7 +59,11 @@ A [talk](https://www.youtube.com/watch?v=k7nAtrwPhR8) giving an introduction int
 - http://learnyouahaskell.com/
 
 ## Functional Programming
-[Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+- [Functional Design Patterns - Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0)
+
+## BEAM (Erlang / Elixir)
+- [The Soul of Erlang and Elixir • Saša Jurić](https://www.youtube.com/watch?v=JvBT4XBdoUE)
+- [Breaking Open: Erlang](https://www.youtube.com/watch?v=m5RWdNBPsTY)
 
 ## History of Programming
 - https://www.youtube.com/watch?v=jmRE5pXFi04
